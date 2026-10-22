@@ -1,6 +1,6 @@
 # Farouk Battikh
 
-AI automation developer based in Tunisia. I build n8n workflows, LLM-powered pipelines and API integrations that take repetitive work off a team's plate, and I wrap them in a Next.js + Supabase interface when they need one.
+AI automation developer based in Tunisia. I build n8n workflows, LLM-powered pipelines and API integrations that take repetitive work off a team's plate, and I wrap them in a Next.js + Supabase interface when they need one. I build AI-native, with Claude Code in my workflow every day.
 
 I work freelance on Upwork, in English, French and Arabic.
 
