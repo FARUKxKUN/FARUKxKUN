@@ -22,7 +22,7 @@ I work freelance on Upwork, in English, French and Arabic.
 
 ## Tools
 
-n8n · Make · OpenAI API · Claude API · Gemini API · Python · JavaScript · TypeScript · Next.js · React · Supabase · Postgres · Tailwind CSS · GSAP · Vercel · Git
+n8n · Claude Code · OpenAI API · Claude API · Gemini API · Python · Make · JavaScript · TypeScript · Next.js · React · Supabase · Postgres · Tailwind CSS · GSAP · Vercel · Git
 
 ## Hackathons
 
