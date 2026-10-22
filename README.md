@@ -26,8 +26,8 @@ n8n · Claude Code · OpenAI API · Claude API · Gemini API · Python · Make �
 
 ## Hackathons
 
-- 1st place, IEEE OPSYNC - [VeritasLearn](https://github.com/FARUKxKUN/VeritasLearn) (team project, I built the app)
-- 1st place, DevHeist at ISIMa - [LifePass](https://github.com/FARUKxKUN/LifePass) (team project, I built the app)
+- 1st place, IEEE OPSYNC - [VeritasLearn](https://github.com/FARUKxKUN/VeritasLearn) (team project, 24h)
+- 1st place, DevHeist at ISIMa - [LifePass](https://github.com/FARUKxKUN/LifePass) (team project, 24h)
 
 ## Contact
 
