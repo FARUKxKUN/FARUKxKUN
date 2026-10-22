@@ -15,10 +15,10 @@ I work freelance on Upwork, in English, French and Arabic.
 
 ## Recent work
 
-- **AI video pipeline at Exosoft** - n8n workflow that goes from a topic to a script, voiceover and finished video, then delivers and logs it. Production time went from 3+ hours to under 5 minutes per video.
+- **[Tbibia](https://tbibia.com)** - practice-management software for dental clinics in Tunisia, live and in use at clinics in Tunis. Appointments, patient records, interactive dental charts, X-ray and document storage, invoicing, and AI features: clinical note summaries, patient summaries before a visit, invoice OCR and WhatsApp reminders. Built with Next.js, TypeScript, Supabase and Gemini. Code is private because it handles patient data.
+- **[Souk](https://github.com/FARUKxKUN/souk)** - my coding-agent threads shown as artisans in a 3D Tunisian medina. My concept and reskin, built on Jarren Rocks' open-source Bot Crossing.
+- **AI video pipeline for Exosoft, with Brody Automates** - n8n workflow that goes from a topic to a script, voiceover and finished avatar video through VEED, then delivers and logs it, with retries and failure alerts. Production time went from 3+ hours to under 5 minutes per video.
 - **Cafe sites** - animated websites for cafes in Abu Dhabi, one of them fully bilingual English and Arabic. See [aptitude-cafe](https://github.com/FARUKxKUN/aptitude-cafe) and [m1-cafe-lounge](https://github.com/FARUKxKUN/m1-cafe-lounge).
-- **[Souk](https://github.com/FARUKxKUN/souk)** - my coding-agent threads shown as artisans in a 3D Tunisian medina. A reskin of Jarren Rocks' open-source Bot Crossing.
-- **SaaS for dental clinics** - appointments, patients and billing (private).
 
 ## Tools
 
