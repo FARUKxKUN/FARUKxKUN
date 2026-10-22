@@ -16,7 +16,8 @@ I work freelance on Upwork, in English, French and Arabic.
 ## Recent work
 
 - **AI video pipeline at Exosoft** - n8n workflow that goes from a topic to a script, voiceover and finished video, then delivers and logs it. Production time went from 3+ hours to under 5 minutes per video.
-- **Restaurant and cafe sites** - animated one-page sites for restaurant and cafe brands in the UAE. See [mamafri](https://github.com/FARUKxKUN/mamafri), [aptitude-cafe](https://github.com/FARUKxKUN/aptitude-cafe) and [m1-cafe-lounge](https://github.com/FARUKxKUN/m1-cafe-lounge).
+- **Cafe sites** - animated websites for cafes in Abu Dhabi, one of them fully bilingual English and Arabic. See [aptitude-cafe](https://github.com/FARUKxKUN/aptitude-cafe) and [m1-cafe-lounge](https://github.com/FARUKxKUN/m1-cafe-lounge).
+- **[Souk](https://github.com/FARUKxKUN/souk)** - my coding-agent threads shown as artisans in a 3D Tunisian medina. A reskin of Jarren Rocks' open-source Bot Crossing.
 - **SaaS for dental clinics** - appointments, patients and billing (private).
 
 ## Tools
