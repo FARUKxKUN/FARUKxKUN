@@ -1,6 +1,8 @@
 # Farouk Battikh
 
-Final-year Computer Science student at ISI Mahdia, Tunisia (Licence in Computer Science, Networks and Systems track). I build AI automations with n8n, webhooks and LLM APIs, and front ends with Next.js, Tailwind CSS and GSAP. Claude Code is part of my daily workflow.
+AI automation developer from Tunisia. I build automations and AI agents with n8n, webhooks and LLM APIs, and I design the front ends people use to work with them, in Next.js, Tailwind CSS and GSAP. Claude Code is part of my daily workflow.
+
+Final-year Computer Science student at ISI Mahdia (Licence in Computer Science, Networks and Systems track).
 
 Open to internships and junior roles from February 2027, and to freelance automation and front-end work.
 
@@ -10,12 +12,16 @@ Open to internships and junior roles from February 2027, and to freelance automa
 
 Also: n8n, GSAP, Lenis, React Three Fiber, OpenAI, Claude and Gemini APIs, Claude Code.
 
+## Client work (live, code private)
+
+- **[Tbibia](https://tbibia.com)** - practice-management software for dental clinics: appointments, patient records, dental charts and invoicing, with AI built into the daily workflow: a patient search that turns plain language into a validated filter, clinical note and pre-visit patient summaries, invoice OCR and WhatsApp reminders. I built all of it, front end and back end, with a business partner handling sales. Next.js, Supabase, Gemini.
+- **[Stonevales](https://stonevales.com)** - site for a French agency that builds client-acquisition systems for advisory professionals. I rebuilt it in Next.js and wired in its AI qualification funnel: a multi-step questionnaire, lead scoring, and a Gemini-written briefing emailed before the prospect books a call on Calendly.
+
 ## Projects
 
 - **[Captih](https://github.com/FARUKxKUN/CAPTIH-SaaS)** - subtitles and transcripts for Tunisian Arabic, built by a team of two. I did the product, the full front end and the fine-tuned Whisper model it runs on. [Yassine Bouteraa](https://github.com/yassinebouteraa) built the back end. [Live app](https://captih.vercel.app)
 - **[Souk](https://github.com/FARUKxKUN/souk)** - coding-agent threads shown as artisans in a 3D Tunisian medina. My concept, art direction and reskin, built on [Jarren Rocks](https://jarren.rocks)' open-source engine (MIT).
-- **SafeLabs-Eval pilot** - ran the ASI01 prompt-injection set of [SafeLabs-Eval](https://github.com/AgentSafeLabs/safelabs-eval), an open-source red-teaming framework for AI agents, against a production AI search agent, through the real UI and API. 30 attacks, run three times. Results in [Discussion #68](https://github.com/AgentSafeLabs/safelabs-eval/discussions/68), 5 issues filed upstream, dataset published on Zenodo ([DOI 10.5281/zenodo.23623801](https://doi.org/10.5281/zenodo.23623801)).
-- **[Tbibia](https://tbibia.com)** - practice-management software for dental clinics: appointments, patient records, dental charts, invoicing and AI-assisted notes. I built all of it, front end and back end, with a business partner handling sales. Next.js, Supabase, Gemini. The code is private because it handles patient data.
+- **SafeLabs-Eval pilot** - ran the ASI01 prompt-injection set of [SafeLabs-Eval](https://github.com/AgentSafeLabs/safelabs-eval), an open-source red-teaming framework for AI agents, against the Tbibia AI search agent in production, through the real UI and API. 30 attacks, run three times. Results in [Discussion #68](https://github.com/AgentSafeLabs/safelabs-eval/discussions/68), 5 issues filed upstream, dataset published on Zenodo ([DOI 10.5281/zenodo.23623801](https://doi.org/10.5281/zenodo.23623801)).
 
 Front-end showcases: [TWAHWIHA](https://github.com/FARUKxKUN/twahwiha), [FARUKU](https://github.com/FARUKxKUN/FARUKU), and two concept sites for Abu Dhabi cafes ([Aptitude](https://github.com/FARUKxKUN/aptitude-cafe), [M1 Cafe Lounge](https://github.com/FARUKxKUN/m1-cafe-lounge), English and Arabic with full RTL).
 
