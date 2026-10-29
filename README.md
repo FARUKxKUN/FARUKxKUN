@@ -28,7 +28,7 @@ Front-end showcases: [TWAHWIHA](https://github.com/FARUKxKUN/twahwiha), [FARUKU]
 ## Hackathons
 
 - **1st place, IEEE OPSYNC** (02.2026) - [VeritasLearn](https://github.com/FARUKxKUN/VeritasLearn), team project with [Yassine Bouteraa](https://github.com/yassinebouteraa) and [Rayen Chatti](https://github.com/rayenchatti): I built the prototype and co-presented the pitch
-- **1st place, DevHeist at ISIMa** (02.2026) - [LifePass](https://github.com/FARUKxKUN/LifePass), team project with [Yassine Bouteraa](https://github.com/yassinebouteraa) and [Rayen Chatti](https://github.com/rayenchatti): I built the prototype and co-presented the pitch
+- **1st place, DevHeist at ISIMa** (02.2026) - [LifePass](https://github.com/FARUKxKUN/LifePass), team project: [Yassine Bouteraa](https://github.com/yassinebouteraa) and [Rayen Chatti](https://github.com/rayenchatti) led the ideation and pitch deck design, Ameny Ferchichi and I gave the pitch, and I built the prototype
 - **Top 5 of 30 teams, HACK4UCAR 2025** (youngest team) - UCAR PULSE, an AI operating system for the university, with Yassine Bouteraa
 
 ## Languages
