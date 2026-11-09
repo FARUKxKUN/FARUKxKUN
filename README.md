@@ -37,7 +37,7 @@ Arabic (native), French and English (fluent).
 
 ## Links
 
-- Portfolio: [farukportfolio.live](https://farukportfolio.live)
+- Portfolio: [faroukbattikh.com](https://faroukbattikh.com)
 - LinkedIn: [linkedin.com/in/faruk-battikh-sec](https://www.linkedin.com/in/faruk-battikh-sec)
 - Upwork: [upwork.com/freelancers/~017c0542733f504d7b](https://www.upwork.com/freelancers/~017c0542733f504d7b)
 - Email: battikhfaroukwork@gmail.com
